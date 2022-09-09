@@ -11,6 +11,6 @@ git clone https://github.com/posty2110/super-crack
 
 cd super-crack
 
-python super.py
+bash run.sh
 
 _happy hacking day!_
